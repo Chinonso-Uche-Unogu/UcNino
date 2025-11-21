@@ -17,19 +17,19 @@ I enjoy learning, exploring new tools, and sharing my cybersecurity projects wit
 
 ## 🧩 Projects & Reports
 <p align="center">
-  <a href="https://github.com/UcNino/UcNino/blob/main/Phishing_Assessment_UcNino.pdf">
+  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/Phishing_Assessment_UcNino.pdf">
     <img src="https://img.shields.io/badge/Phishing_Assessment-4285F4?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Phishing Report"/>
   </a>
-  <a href="https://github.com/UcNino/UcNino/blob/main/Docker_Assessment_UcNino.pdf">
+  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/Docker_Assessment_UcNino.pdf">
     <img src="https://img.shields.io/badge/Docker_Assessment-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Report"/>
   </a>
-  <a href="https://github.com/UcNino/UcNino/blob/main/PenTest_Report_UcNino.pdf">
+  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/PenTest_Report_UcNino.pdf">
     <img src="https://img.shields.io/badge/PenTest_Report_1-FF6F00?style=for-the-badge&logo=metasploit&logoColor=white" alt="PenTest 1"/>
   </a>
-  <a href="https://github.com/UcNino/UcNino/blob/main/pen_test_report2_UcNino.pdf">
+  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/pen_test_report2_UcNino.pdf">
     <img src="https://img.shields.io/badge/PenTest_Report_2-FF6F00?style=for-the-badge&logo=metasploit&logoColor=white" alt="PenTest 2"/>
   </a>
-  <a href="https://github.com/UcNino/UcNino/blob/main/SAST_tool_Analysis_Report_ucnino.pdf">
+  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/SAST_tool_Analysis_Report_ucnino.pdf">
     <img src="https://img.shields.io/badge/SAST_Tool_Analysis-FF6347?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SAST Report"/>
   </a>
 </p>
@@ -40,7 +40,7 @@ I enjoy learning, exploring new tools, and sharing my cybersecurity projects wit
 
 - Email: [unoguuchechinonso@gmail.com](mailto:unoguuchechinonso@gmail.com)  
 - LinkedIn: [www.linkedin.com/in/chinonso-uche-unogu-bb91b5249](https://www.linkedin.com/in/chinonso-uche-unogu-bb91b5249)  
-- GitHub: [https://github.com/UcNino](https://github.com/UcNino)  
+- GitHub: [https://github.com/Chinonso-Uche-Unogu](https://github.com/Chinonso-Uche-Unogu)  
 
 ---
 
