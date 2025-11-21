@@ -39,7 +39,7 @@ I enjoy learning, exploring new tools, and sharing my cybersecurity projects wit
 ## 📫 How to reach me
 
 - Email: [unoguuchechinonso@gmail.com](mailto:unoguuchechinonso@gmail.com)  
-- LinkedIn: [www.linkedin.com/in/chinonso-uche-unogu-bb91b5249](https://www.linkedin.com/in/chinonso-uche-unogu)  
+- LinkedIn: [www.linkedin.com/in/chinonso-uche-unogu](https://www.linkedin.com/in/chinonso-uche-unogu)  
 - GitHub: [https://github.com/Chinonso-Uche-Unogu](https://github.com/Chinonso-Uche-Unogu)  
 
 ---
